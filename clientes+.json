@@ -1,0 +1,44 @@
+[
+   {
+      "nome": "rafael",
+      "telefone": "21999558847",
+      "email": "rafael@email.com",
+      "cpf": "06313200"
+   },
+   {
+      "nome": "jorge",
+      "telefone": "65156154657",
+      "email": "jorge@email.com",
+      "cpf": "56546546"
+   },
+   {
+      "nome": "katia",
+      "telefone": "224662342356",
+      "email": "katia@email.com",
+      "cpf": "54673333"
+   },
+   {
+      "nome": "maria",
+      "telefone": "554444322",
+      "email": "maria@email.com",
+      "cpf": "453466333"
+   },
+   {
+      "nome": "augusto",
+      "telefone": "223452223",
+      "email": "augst@email.com",
+      "cpf": "2326626226"
+   },
+   {
+      "nome": "rosa",
+      "telefone": "3463463463446",
+      "email": "rosa@email.com",
+      "cpf": "744453434"
+   },
+   {
+      "nome": "mattheus",
+      "telefone": "44444455555",
+      "email": "matts@email.com",
+      "cpf": "2005564000"
+   }
+]
